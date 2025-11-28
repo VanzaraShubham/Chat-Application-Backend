@@ -1,0 +1,12 @@
+// npm i 
+// bcryptjs:- its used for encrpting the password after stoing in mongodb
+// cloudinary:- it is used for uploading image at cloud 
+// cors:- its allow any frontend url to connect with backend
+// dotenv:- with the help of this we can use any environment variable in backend server
+// express:- it is used to build backend server
+// jsonwebtoken:- it is used to generate the token and used in authentication of user
+// mongoose:- it is used to connect our mongodb project with backend
+// socket.io:- it is used for enabling real time chat messaging
+// nodemon:- it is used for updating our backend
+
+// "type": "module":- it is used for import statement in the project
